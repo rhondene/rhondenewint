@@ -24,6 +24,7 @@ I employ experimental and computational methods to study RNA biology at the deve
 	<figcaption> <b>Codon optimality principle: mRNAs with codons recognized by abundant tRNAs are better translated during protein synthesis.</b>
 		</figcaption>
 	</figure>
+
 # <font color='brown'> Main Project: Codon optimality and tRNA dynamics during neural differentiation </font>
    ![My helpful screenshot](./images/neuro_header.png) <br/>
 A major goal of neurobiology is to unravel the molecular events that orchestrate neural cell-fate and regulation. 
