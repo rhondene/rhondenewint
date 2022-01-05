@@ -9,7 +9,7 @@ title: Research
 
 
  <img class="container__image" src='./images/My_pic.png' width='150' height='200' align="left">
- <p> <br/>  <br/>  Rhondene Wint <br/> PhD Candidate<br/> Dept. of Quantitative and Systems Biology <br/> University of California-Merced <br/> <b>Interests</b>: RNA, neurobiology, bioinformatics, machine learning   <br/>  <br/>  <br/>  </p>
+ <p> <br/>  <br/>  Rhondene Wint <br/> PhD Candidate<br/> Dept. of Quantitative and Systems Biology <br/> University of California-Merced <br/> <b>Interests</b>: functional genomics, RNA, neurobiology, bioinformatics, machine learning   <br/>  <br/>  <br/>  </p>
 
 
 ## Biography
