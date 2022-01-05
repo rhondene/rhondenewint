@@ -29,7 +29,7 @@ I employ experimental and computational methods to study RNA biology at the deve
 # <font color='brown'> Main Project: Codon optimality and tRNA dynamics during neural differentiation </font>
    ![My helpful screenshot](./images/neuro_header.png) <br/>
 A major goal of neurobiology is to unravel the molecular events that orchestrate neural cell-fate and regulation. 
-By using techniques from functional genomics and classical genetics, I seek to elucidate how the dynamic regulation of transfer RNAs (tRNAs) between neural progenitors and mature neurons contribute to cell-type specificity and function.
+By using techniques from functional genomics and classical genetics, my research aims to unravel how the dynamic regulation of transfer RNAs (tRNAs) between neural progenitors and mature neurons contribute to cell-type specificity and function.
  
 	
  <figure>
